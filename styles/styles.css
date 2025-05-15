@@ -1,0 +1,115 @@
+body{
+  background:#f6f6f6;
+}
+
+header {
+  width: 100%;
+  height:600px;
+  background:url(../imagenes/header2.jpg);
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-position: center center;
+  background-size: cover;
+  background-color: #000000;
+
+}
+
+header nav {
+  background:#000000;
+  overflow:hidden;
+}
+
+header nav ul {
+  list-style: none;
+}
+
+header nav ul li {
+  float:right;
+}
+header nav ul li a {
+  margin:0px 20px;
+  padding: 20px 20px;
+  display: block;
+  color: #fff;
+  text-decoration:none;
+}
+header nav ul li a:hover {
+  background:#eca023;
+}
+
+h1{
+  font-family:arial black;
+  color:#fff;
+}
+
+.ex{
+  color:#fff;
+}
+
+.evon{
+  height:300px;
+  width:300px;
+  color:#fff;
+  background:url(../imagenes/procesador.jpg);
+  background-position: center center;
+  background-size: cover;
+  margin:15px 3.5%;
+  padding:30px;
+  border:10px;
+  display:inline-block;
+}
+
+.evon2{
+  height:300px;
+  width:300px;
+  color:#fff;
+  background:url(../imagenes/Photoshop.png);
+  background-position: center center;
+  background-size: cover;
+  margin:15px 30px;
+  padding:30px;
+  border:10px;
+  display:inline-block;
+}
+
+.evon3{
+  height:300px;
+  width:300px;
+  color:#fff;
+  background:url(../imagenes/Sky.jpg);
+  background-position: center center;
+  background-size: cover;
+  margin:15px 30px;
+  padding:30px;
+  border:10px;
+  display:inline-block;
+}
+
+.evon4{
+  height:500px;
+  width:87%;
+  color:#fff;
+  background:url(../imagenes/Hitman.jpg);
+  background-position: center center;
+  background-size: cover;
+  margin:30px 3.5%;
+  padding:30px;
+  border:10px;
+  display:inline-block;
+}
+
+.evon4 h2{
+  font-family:arial black;
+}
+
+footer{
+  width: 100%;
+  height:60px;
+  background:#000;
+}
+
+footer div p{
+  color:#fff;
+  float:right;
+  padding:5px 30px;
+}

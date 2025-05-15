@@ -1,0 +1,19 @@
+body{
+  background:#f6f6f6;
+}
+
+header {
+  width: 100%;
+  height:600px;
+  background:url(../imagenes/agua.jpg);
+  background-repeat:no-repeat;
+  background-attachment:scroll;
+  background-position: center center;
+  background-size: cover;
+  background-color: #000000;
+
+}
+.
+p{
+  color:white;
+}
